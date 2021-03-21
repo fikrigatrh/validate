@@ -1,6 +1,6 @@
 # Package validator
 
-Package validator implements
+Package validate implements
 
 # Installation
 
