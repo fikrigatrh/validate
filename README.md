@@ -1,4 +1,4 @@
-# Package validator
+# Package validate
 
 Package validate implements
 
